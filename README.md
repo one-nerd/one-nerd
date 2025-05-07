@@ -1,16 +1,58 @@
-## Hi there 👋
+# 自我介绍 ✨
 
-<!--
-**one-nerd/one-nerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 基本信息
 
-Here are some ideas to get you started:
+- **姓名**：[獨飲品書香]  
+- **年龄**：36岁
+- **职业/身份**：[中层管理者/某企业]  
+- **坐标**：🌍 [Beijing/China]  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 技能树
+
+```python
+def my_skills():
+    return {
+        "编程语言": ["Python", "JavaScript", "HTML/CSS"],
+        "工具框架": ["React", "Git", "Docker"],
+        "设计能力": ["Figma", "UI/UX基础"],
+        "语言": ["中文（母语）", "英语（流利）"]
+    } 
+```
+
+---
+
+## 🚀 项目经历
+
+1. **AI聊天机器人开发**  
+   - 使用Python+TensorFlow搭建对话模型  
+   - 实现自然语言处理与多轮对话逻辑  
+   - [项目链接](https://example.com)  
+
+2. **个人博客网站**  
+   - 基于React+Node.js全栈开发  
+   - 集成Markdown实时渲染功能  
+   - [访问地址](https://blog.example.com)  
+
+---
+
+## 🎨 兴趣爱好
+
+- 📚 沉迷科幻小说与哲学书籍  
+- 🎮 独立游戏开发者（用Unity做像素风游戏）  
+- ☕ 手冲咖啡爱好者，收集了12种咖啡豆  
+- 🏃 每周三次晨跑，半马PB 2小时15分  
+
+---
+
+## 📬 联系我
+
+- 📧 邮箱：**[your.email@example.com](mailto:your.email@example.com)**  
+- 💼 LinkedIn：**[linkedin.com/in/yourname](https://linkedin.com)**  
+- 🐱 GitHub：**[github.com/yourname](https://github.com)**  
+- 🌐 个人网站：**[mage-space.cn](https://mage-space.cn)**  
+
+> "Stay hungry, stay foolish." —— 持续探索技术与创意的边界 🔭
+
+<p style="text-align: right;">2025-03-01 @北京　　　</p>
